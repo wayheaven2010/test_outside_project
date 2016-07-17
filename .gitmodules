@@ -1,0 +1,3 @@
+[submodule "test_inside_project"]
+	path = test_inside_project
+	url = https://github.com/wayheaven2010/test_inside_project.git
